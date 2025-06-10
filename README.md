@@ -22,7 +22,7 @@ La empresa necesita:
 
 ## Descripción de la Base de Datos 
 
-Tablas: 
+##  Tablas
 
 - Clientes:
 Clave primaria: id_cliente (identificador único del cliente).
