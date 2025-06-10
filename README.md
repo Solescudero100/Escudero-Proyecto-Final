@@ -130,8 +130,8 @@ El archivo de backup está incluido en este repositorio.
 
 ## 📊 Informes y Gráficos
 
-- **[reporte_empleados.pdf](reporte_empleados.pdf)**: muestra cantidad de ventas, total vendido y promedio por empleado.
-- **[grafico_empleados.png](grafico_empleados.png)**: gráfico visual con los mismos datos.
+- : muestra cantidad de ventas, total vendido y promedio por empleado.
+- : gráfico visual con los mismos datos.
 
 
 
