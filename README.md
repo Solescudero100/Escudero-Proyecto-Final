@@ -89,7 +89,9 @@ El objetivo es ver el total facturado y cuántos productos se vendieron por cate
 
 • obtener_nombre_completo y obtener_nombre_completo_de_cliente: simplifican reportes.
 
-## Creacion de los Usuarios y Asignación de Permisos: La creación de usuarios y asignación de permisos se utiliza para controlar el acceso a los datos almacenados en la base de datos.
+## Creacion de los Usuarios y Asignación de Permisos
+
+La creación de usuarios y asignación de permisos se utiliza para controlar el acceso a los datos almacenados en la base de datos.
 
 En el siguiente script, se crea un usuario llamado SOLEDAD que solo puede conectarse desde el servidor local (localhost) y se le asigna una contraseña (contrasenajunio). 
 Luego, se le otorgan permisos de solo lectura (SELECT) sobre todas las tablas de la base de datos solo_deportes:
