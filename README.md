@@ -113,7 +113,20 @@ Para ello, busca el nombre completo del empleado que realizó la venta en la tab
 Inserta en log_ventas un nuevo registro con el ID de la venta, el nombre del empleado y la fecha/hora del registro.
 Este mecanismo permite trazar qué empleado realizó cada venta, útil para reportes, seguimiento interno o control de actividad.
 
-## Backup de la base de datos: 
+## Backup de la base de datos
+
+El archivo de backup está incluido en este repositorio.
+
+👉 [Descargar backup_solo_deportes(1).sql](./backup_solo_deportes(1).sql)
+
+### Cómo restaurar la base:
+
+1. Abrí **MySQL Workbench**.
+2. Conectate al servidor local.
+3. Hacé clic en `File > Open SQL Script...` y seleccioná el archivo `backup_solo_deportes(1).sql`.
+4. Ejecutá todo el contenido presionando **Ctrl + Shift + Enter**.
+5. La base de datos `solo_deportes` se creará automáticamente con sus tablas y datos.
+
 
 
 
