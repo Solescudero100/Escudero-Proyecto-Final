@@ -107,7 +107,7 @@ Se le asigna la contraseña contrasena456. Este usuario recibe todos los privile
 * CREATE USER 'sofíamartínez'@'localhost' identified by 'contrasena456'; 
   GRANT ALL PRIVILEGES ON solo_deportes.ventas TO 'sofíamartínez'@'localhost';
 
-## Triggers del proyecto
+## Trigger del proyecto
 
 Trigger: 'after_insert_venta':
 Se activa automáticamente después de insertar una nueva venta en la tabla ventas. Su propósito es mantener un registro de auditoría en la tabla log_ventas. 
