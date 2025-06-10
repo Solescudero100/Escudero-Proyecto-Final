@@ -117,8 +117,7 @@ Este mecanismo permite trazar qué empleado realizó cada venta, útil para repo
 
 El archivo de backup está incluido en este repositorio.
 
-👉 [Descargar backup_solo_deportes(1).sql](./backup_solo_deportes(1).sql)
-
+👉
 ### Cómo restaurar la base:
 
 1. Abrí **MySQL Workbench**.
