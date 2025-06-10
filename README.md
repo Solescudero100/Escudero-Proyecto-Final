@@ -117,7 +117,8 @@ Este mecanismo permite trazar qué empleado realizó cada venta, útil para repo
 
 El archivo de backup está incluido en este repositorio.
 
-👉
+👉 [Descargar backup_solo_deportes(1).sql](./backup_solo_deportes(1).sql)
+
 ### Cómo restaurar la base:
 
 1. Abrí **MySQL Workbench**.
@@ -125,10 +126,6 @@ El archivo de backup está incluido en este repositorio.
 3. Hacé clic en `File > Open SQL Script...` y seleccioná el archivo `backup_solo_deportes(1).sql`.
 4. Ejecutá todo el contenido presionando **Ctrl + Shift + Enter**.
 5. La base de datos `solo_deportes` se creará automáticamente con sus tablas y datos.
-
-
-
-
 
 
 ## 📊 Informes y Gráficos
