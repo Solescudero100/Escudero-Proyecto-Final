@@ -129,10 +129,8 @@ El archivo de backup está incluido en este repositorio.
 
 
 ## 📊 Informes y Gráficos
-
-- : muestra cantidad de ventas, total vendido y promedio por empleado.
-- : gráfico visual con los mismos datos.
-
+👉 Ver reporte por empleado en PDF: ([https://github.com/Solescudero100/Escudero-Proyecto-Final/blob/main/Reporte%20por%20empleado%20-%20tabla-.pdf]
+👉 Ver grafico visual con cantidad de ventas y tendencia: 
 
 
 
